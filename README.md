@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SME Digi — Local Setup Guide (XAMPP + React)
 
 Stack: React (Vite) + PHP + MySQL, running locally via XAMPP.
@@ -47,3 +48,7 @@ The frontend calls the backend at `http://localhost/sme-digi/backend/api` (see `
 - Business types and questions are stored in the DB (`assessment_questions` table), so you can add more types/questions without touching code — useful if your supervisor asks for changes.
 - Likert scale is 1–5 (Strongly Disagree → Strongly Agree).
 - `dashboard.php` computes the average score per dimension and an overall readiness score — this maps directly to your TOE framework dimensions.
+=======
+# SME-DIGI-1
+research project
+>>>>>>> 95618f1442c54f1dd5f6c35cb1eee79d87cec64b
